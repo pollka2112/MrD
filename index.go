@@ -1,7 +1,7 @@
 package dicebot
 
 import (
-	"github.com/arkie/dicebot/slack"
+	"github.com/pollka2112/MrD/slack"
 	"html/template"
 	"net/http"
 	"os"

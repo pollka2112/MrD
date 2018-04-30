@@ -2,8 +2,8 @@ package dicebot
 
 import (
 	"fmt"
-	"github.com/arkie/dicebot/roll"
-	"github.com/arkie/dicebot/slack"
+	"github.com/pollka2112/MrD/roll"
+	"github.com/pollka2112/MrD/slack"
 	"math/rand"
 	"os"
 	"strconv"
